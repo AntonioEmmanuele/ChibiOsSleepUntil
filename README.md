@@ -21,6 +21,6 @@ This is an implementation of the sleep until function based on the vTaskDelayUnt
    
  To compile and test follow the guide "Creating our first project " in:
  
-    https://www.playembedded.org/blog/demos-chibios-stm32/
+   https://www.playembedded.org/blog/demos-chibios-stm32/
 
   After this you should just copy my main in your new project and compile/flash/run(same link).
