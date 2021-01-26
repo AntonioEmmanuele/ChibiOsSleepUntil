@@ -1,7 +1,7 @@
 /****************************************************************************************
 * This file is part of ChibiOsSleepUntil Project. *
 * *
-* Copyright � 2021 By Antonio Emmanuele. All rights reserved. *
+* Copyright  © 2021 By Antonio Emmanuele. All rights reserved. *
 * @mail: antony.35.ae@gmail.com *
 * *
 * ChibiOsSleepUntil is free software: you can redistribute it and/or modify *
