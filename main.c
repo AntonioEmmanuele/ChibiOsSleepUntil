@@ -10,7 +10,7 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 */
-/* Modifications copyright (C) 2021 Antonio Emmanuele*/
+/* Modifications Copyright (C) 2021 Antonio Emmanuele*/
 #include "ch.h"
 #include "hal.h"
 #include "chprintf.h"
